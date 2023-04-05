@@ -69,5 +69,3 @@ if streamlit.button('Add a Fruit to the List'):
 
 # don't run anything from this line while troubleshooting
 streamlit.stop()
-
-# https://aborse555-first-streamlit-app-streamlit-app-w0433r.streamlit.app/
