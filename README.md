@@ -1,6 +1,6 @@
 # My First Streamlit App
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/116681133/230444408-d4dd3eaf-414c-4ec4-bf41-9cc357a70025.png)" width="100" height="100">
+<img src="[https://user-images.githubusercontent.com/116681133/230444408-d4dd3eaf-414c-4ec4-bf41-9cc357a70025.png]" width="500" height="500">
 
 For Badge 2: Data Application Builders Workshop of Snowflake Learning, we had to make a streamlit app. 
 This app/website is a diner menu with features such as pick and choose your own fruits with nutritional information about those fruits, two answer boxes. 
